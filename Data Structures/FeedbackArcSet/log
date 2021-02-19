@@ -1,0 +1,26 @@
+ESTIMATE of time to complete assignment: 25 hrs
+      Time     Time 
+Date  Started  Spent  Work completed
+----  -------  -----  --------------
+11/24  4:00pm   5:00  read assignment and looked at Piazza for hints
+11/28  8:00pm   2:00  worked on reading input
+11/29  7:00am  12:00  reading input and finding ratios for degree
+11/30  6:00pm   8:00  Finished all of unit
+12/1   2:00pm   4:00  Got degree working and started on topo and finished topo
+12/2  10:00am   2:00  got dfs working but for order
+12/5   7:00pm   5:00  Redid read input and degree to work in the time bounds and with valgrind
+12/6   2:00pm   4:00  Topo and dfs finally done with valgrind!!!
+               ----
+               43:00  TOTAL time spent
+
+I discussed my solution with: Marley Hughes and Max Ranis and Hamilton Wan (high level stuff about where to start and possible edge cases and possible data structures to use)
+
+This project was dumb hard. I feel like I had to do it twice because I did it the first time with incorrect time bounds and just didn't impliment things effeciently.
+So then I had to do it again and fix the time bounds as well as valgrind. The hardest part of this project was getting valgrind to work when reading input. I definitely
+learned a lot though about memory allocation and writing functions and how it all interacts with the .h file which I think will be really helpful for the future. I 
+can't remember an specific bugs, but I just had so many typos which was infuriating when I finally found them. fprintf statements really saved me which was fantastic,
+but boy, it took so many of them. 
+
+
+
+

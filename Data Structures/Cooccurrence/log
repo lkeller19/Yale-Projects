@@ -1,0 +1,29 @@
+ESTIMATE of time to complete assignment: 20 hrs
+      Time     Time 
+Date  Started  Spent  Work completed
+----  -------  -----  --------------
+10/27   1:30pm  2:00  read assignment and looked at Piazza for hints
+                      struggled a lot to understand what the cooccurence matrix was actually doing
+11/1  11:00am   1:30  started working on cooccur_create
+11/2   2:00pm   5:00  kept working and got cooccur_create and update working
+11/3   6:20am   6:00  finished read_context, vector, and destroy
+11/6  11:00am   4:00  Cooccur main not working. Passes all the tests but valgrind is haywire
+11/7   9:00am   3:00  Lots of error fixing in main. Went to office hours and finally solved it!
+11/9  11:00am   5:00  trying to implement Aspnes' AVL code into gmap
+11/10  7:00am   2:00  Finished!!
+               ----
+               28:00  TOTAL time spent
+
+I discussed my solution with: Marley Hughes, Hamilton Wan, and Max Ranis about strategies of approach and how AVL trees work (complete with papers
+full of diagrams :) )
+
+Each one of these projects gets harder than the last! I had a lot of small errors again that just take years to fix. I did learn how to use gdb though
+which was cool, but since most of my errors were valgrind issues, it wasn't all that helpful for this project. One of the biggest error I had that I 
+couldn't figure out for the life of me was that I was adding a terminating character to my word buffer waaay after the actual end of the word. Luckily,
+I jumped into the beginning of office hours and Blaize figured it out which was amazing. Implementing gmap as an AVL tree was a very challenging
+problem since I was always really hesitant to change any of the code already there for fear of messing it up irreversibly. I also had a lot of issues
+with calling functions before they were supposed to be called, so I was doing the right thing but they just came in slightly the wrong order. But,
+it's done now and I'm so glad it's over! Theses projects though have been so good at helping learn way more about programming. 
+
+
+

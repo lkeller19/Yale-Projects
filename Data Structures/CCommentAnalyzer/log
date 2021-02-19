@@ -1,0 +1,27 @@
+ESTIMATE of time to complete assignment: 20 hrs
+      Time     Time 
+Date  Started  Spent  Work completed
+----  -------  -----  --------------
+9/16   8:00pm  2:00  read assignment and looked at Piazza for hints
+                     made an unsuccessful stab at the code
+9/17   7:00am  3:30  researched about getchar, freopen, etc.
+                     began implementing the giant state machine  
+9/17   5:00pm  3:00  slowly built up the state machine based on failed test cases
+9/18   4:00pm  5:00  finally passed all basic cases
+                     amazingly implemented tags correctly at beginning but had type
+               ----
+               13:30  TOTAL time spent
+
+I discussed my solution with: a very nice ULA whose name I don't remember
+
+I'm not exactly sure why but this was the most frustration and bug free coding experience
+that I've ever had. The people's questions on Piazza were extremely helpful in figuring out 
+the form of the code. Professor Glenn mentioned getchar and putchar and that the code should 
+look like a giant version of SplitAudio which meant I knew exactly where I had to go. I also 
+got very lucky with searches on Stack Overflow when it came to functions to use to redirect 
+standard input. However, one part that took some thought was how to account for a closing bracket
+inside of a block inside of a comment which ended up taking me a lot more states that just covered
+that one case which was frustrating. I also didn't realize that strcmp() returns false, not true
+when two strings are equal which meant it took me a while to figure out why I couldn't check the 
+arguments. But, using printf() whenever I had a bug or couldn't figure out where the code was going
+wrong was extremely helpful. Overall, I quite enjoyed this project. 

@@ -1,0 +1,28 @@
+ESTIMATE of time to complete assignment: 20 hrs
+      Time     Time 
+Date  Started  Spent  Work completed
+----  -------  -----  --------------
+10/7   4:00pm  5:00  read assignment and looked at Piazza for hints
+                     made an unsuccessful stab at the code cause I just stared at it not knowing where to start
+                     but finally began to slowly progress... finished parts of pop and strat
+10/9  11:00am  3:30  continued working, bounce back and forth between strategy.c and population.cases
+10/9   6:00pm  3:00  Same as earlier today, kept grind away, passed valgrind tests
+10/10  6:00pm  3:00  Finished all of unit
+10/11  7:00pm  10:00 Finished everything!!!! Valgrind was dumb. Was able to write all of blotto_ga
+10/14 10:00am  3:00  Error checking and time complexity checking, had to rewrite deep copy
+               ----
+               27:00  TOTAL time spent
+
+I discussed my solution with: Marley Hughes and Max Ranis (high level stuff about where to start and possible edge cases and the concept of freeing)
+[didn't watch any Gilligan's Island but do NBA games count?? :)]
+
+Wow, this one was so much harder than the last project. I had so many more instances of getting hung up on a very tiny thing where I accidentally
+wrote the wrong thing in the code even though in my head I knew what I was doing. There were also points at the start where I was really stuck. 
+I didn't realize I needed to use ** unil I discussed with a ULA and he walked me through how to visualize all the different pointers and stuff which
+was really great and meant I was able to progress much faster than before. Valgrind issues on this project were so annoying because I would try to 
+free things but they would still be needed later in the code and I couldn't fully grasp when things were copies or not which made it difficult.
+I also seemed to have a lot of mallocing in blotto_ga.c which I don't think was the correct approach but it worked. 
+
+
+
+
